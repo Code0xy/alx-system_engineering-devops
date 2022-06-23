@@ -1,1 +1,2 @@
-#!/bin/bash\nchmod u+x
+#!/bin/bash
+chown vincent:staff*
